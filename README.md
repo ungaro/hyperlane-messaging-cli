@@ -2,6 +2,7 @@
 
 ```
 git clone https://github.com/ungaro/hyperlane-messaging-cli
+cd hyperlane-messaging-cli
 yarn
 yarn build
 yarn link
@@ -45,6 +46,12 @@ OPTIONS:
   if you have installed cli.
 
   `hl message send -o goerli -d arbitrumGoerli -m "your message" -r 0x36FdA966CfffF8a9Cdc814f546db0e6378bFef35 -p <YOUR PRIVATE KEY>`
+
+
+if you're using windows; use:
+```
+node ./dist/index.js message send -o goerli -d arbitrumGoerli -m "your message" -r 0x36FdA966CfffF8a9Cdc814f546db0e6378bFef35 -p <YOUR PRIVATE KEY>`
+```
 
 ## Searching messages from a json formatted file
 
