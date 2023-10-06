@@ -1,0 +1,6 @@
+*.js
+!_*.js
+dist/
+node_modules/
+*.log
+.DS_Store

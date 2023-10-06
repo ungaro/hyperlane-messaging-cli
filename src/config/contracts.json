@@ -1,0 +1,118 @@
+{
+    "messagebox": {
+      "mainnet": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "celo": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "avalanche": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "polygon": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "bsc": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "arbitrum": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "optimism": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "moonbeam": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "gnosis": {
+        "contractAddress": "0x35231d4c2D8B8ADcB5617A638A0c4548684c7C70"
+      },
+      "celoAlfajores": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "avalancheFuji": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "polygonMumbai": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "bscTestnet": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "goerli": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "moonbaseAlpha": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "optimismGoerli": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "arbitrumGoerli": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      },
+      "sepolia": {
+        "contractAddress": "0xCC737a94FecaeC165AbCf12dED095BB13F037685"
+      }
+      
+    },
+    "igp":{
+        "mainnet": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "celo": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "avalanche": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "polygon": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "bsc": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "arbitrum": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "optimism": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "moonbeam": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "gnosis": {
+          "contractAddress": "0x56f52c0A1ddcD557285f7CBc782D3d83096CE1Cc"
+        },
+        "celoAlfajores": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "avalancheFuji": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "polygonMumbai": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "bscTestnet": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "goerli": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "moonbaseAlpha": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "optimismGoerli": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "arbitrumGoerli": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        },
+        "sepolia": {
+          "contractAddress": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+        }
+        
+      }
+
+  }
+
