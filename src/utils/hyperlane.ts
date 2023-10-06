@@ -223,7 +223,7 @@ const account =  this.getAccount();
     console.log("=======================================");
   
     //const explorer = _chainsList[dest]['blockExplorers']['etherscan'][' url'] ;
-    console.log(`Message dispatched with tx hash: GoerliExplorer/${txResponse}`);
+    console.log(`Message dispatched with tx hash: Explorer/${txResponse}`);
   
     const rainbow = chalkAnimation.pulse(
       "==============checking for messageid=============="
